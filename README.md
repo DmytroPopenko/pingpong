@@ -5,6 +5,6 @@ d;lksakl;dsak;l
 
 
 <details>
-<summary>;lkdsakl;dsa<summary/>
+<summary>;lkdsakl;dsa</summary>
 fdlskfjlkdsk;fds
-<details/>
+</details>
